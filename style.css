@@ -115,7 +115,7 @@ a{
 
 .tip-vlevo{
 	grid-column: 1/1;
-	border-right: 3px solid var(--zluta);
+	border-right: 2px solid var(--zluta);
 	text-align: right;
 }
 
@@ -171,7 +171,7 @@ blockquote::after{
 
 .tip-vpravo{
 	grid-column: 3/4;
-	border-left: 3px solid var(--zluta);
+	border-left: 2px solid var(--zluta);
 	
 }
 
@@ -183,7 +183,7 @@ h2{
 footer{
 	grid-column: 2/3;
 	color: var(--seda);
-	font-size: 16px;
+	font-size: 14px;
 }
 
 footer a{
